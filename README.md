@@ -1,7 +1,7 @@
 # dev-excuses
 Simple API that provides excuses for developers not to work on their projects.
 
-Heavily inspired by this project:
+Heavily inspired by [this project](https://github.com/michelegera/devexcuses-api) made by Michele Gerarduzzi.
 
 ## Installation
 Requires [crystal & shards](https://crystal-lang.org/)
@@ -16,8 +16,9 @@ make run
 - Clone repository
 - Modify `src/dev-excuses.cr` file
 
+### Run tests
+`make test`
 ## Contributing
-
 1. Fork it (<https://github.com/your-github-user/dev-excuses/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
