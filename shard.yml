@@ -1,0 +1,19 @@
+name: dev-excuses
+version: 0.1.0
+
+authors:
+  - Dynnammo <baptiste.thivend@protonmail.com>
+
+dependencies:
+  spec-kemal:
+    github: kemalcr/spec-kemal
+  kemal:
+    github: kemalcr/kemal
+
+targets:
+  dev-excuses:
+    main: src/dev-excuses.cr
+
+crystal: 1.6.2
+
+license: MIT
