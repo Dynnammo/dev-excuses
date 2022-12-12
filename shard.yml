@@ -2,7 +2,7 @@ name: dev-excuses
 version: 0.1.0
 
 authors:
-  - Dynnammo <baptiste.thivend@protonmail.com>
+  - Dynnammo <contact@dynnammo.com>
 
 dependencies:
   spec-kemal:
@@ -16,4 +16,4 @@ targets:
 
 crystal: 1.6.2
 
-license: MIT
+license: GPLv3
