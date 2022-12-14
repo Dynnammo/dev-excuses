@@ -15,3 +15,4 @@ test:
 
 build:
 	docker build . --compress --tag $(TAG)
+

@@ -14,3 +14,4 @@ ENV KEMAL_ENV production
 COPY --from=builder /workdir/dev-excuses .
 COPY --from=builder /workdir/data ./src/data
 CMD exec ./dev-excuses -p $PORT
+
