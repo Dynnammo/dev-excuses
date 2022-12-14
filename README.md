@@ -6,9 +6,15 @@ Heavily inspired by [this project](https://github.com/michelegera/devexcuses-api
 ## Installation
 Requires [crystal & shards](https://crystal-lang.org/)
 
-### Using shell
+### Direct compilation
 ```shell
 make install
+make local-run
+```
+
+### Using Docker
+```shell
+make build
 make run
 ```
 
