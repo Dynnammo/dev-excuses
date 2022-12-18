@@ -1,0 +1,216 @@
+excuses:
+  "I must have been stress-testing our production server.": 'J''ai dû effectuer quelques
+    stress-test sur notre serveur de production.'
+  "I must not have understood what you were asking for.": 'Je n''ai pas dû bien comprendre
+    ce que vous demandiez exactement.'
+  "I thought I finished that.": 'J''ai cru que j''avais terminé ça.'
+  "I thought he knew the context of what I was talking about.": 'J''ai cru qu''il
+    connaissait le contexte dont je parlais alors.'
+  "I thought you signed off on that.": 'J''ai pensé que tu étais déconnecté de ça.'
+  "I told you yesterday it would be done by the end of today.": 'Je vous ai dit hier
+    que cela serait prêt pour ce soir.'
+  "I usually get a notification when that happens.": 'Je reçois généralement une notification
+    lorsque cela arrive.'
+  "Well, that's a first.": 'Hm, c''est une première...'
+  "Actually, that's a feature.": 'En fait, c''est une fonctionnalité.'
+  "Did you check for a virus on your system?": 'Avez-vous vérifier qu''il n''y avait
+    pas de virus sur votre système ?'
+  "Even though it doesn't work, how does it feel?": 'Au delà du fait que ça ne marche
+    pas, comment le vivez-vous ?'
+  "Everything looks fine on my end.": 'Tout à l''air de marcher de mon côté.'
+  "How is that possible?": 'Mais comment cela est-il possible ?'
+  "I broke that deliberately to do some testing.": 'J''ai cassé ceci délibérement
+    pour faire quelques tests.'
+  "I can't make that a priority right now.": 'Je ne peux pas en faire une priorité
+    dans l''immédiat.'
+  "I can't test everything.": 'Je ne peux pas tout tester.'
+  "I couldn't find any examples of how that can be done anywhere online.": 'Je n''ai
+    pu trouver aucun exemple en ligne de comment cela pourrait être fait.'
+  "I couldn't find any library that can even do that.": 'Je n''ai pu trouver aucune
+    bibliothèque capable de faire ça.'
+  "I did a quick fix last time but it broke when we rebooted.": 'J''ai fait un quick
+    fix la dernière fois mais il a pété quand on a redémarré le système.'
+  "I didn't anticipate that I would make any errors.": 'Je n''ai pas anticipé le fait
+    que ça pourrait provoquer des erreurs.'
+  "I didn't create that part of the program.": 'Je n''ai pas codé cette partie du
+    programme.'
+  "I didn't receive a ticket for it.": 'Je n''ai pas reçu de ticker pour ça.'
+  "I forgot to commit the code that fixes that.": 'J''ai oublié de commiter le code
+    qui répare ça.'
+  "I have never seen that before in my life.": 'De ma vie entière, je n''ai jamais
+    vu une chose pareille.'
+  "I have too many other high priority things to do right now.": 'J''ai trop de choses
+    en priorité hautes pour m''en occuper maintenant.'
+  "I haven't been able to reproduce that.": 'Je n''ai pas été capable de reproduire
+    ça.'
+  "I haven't had a chance to run that code yet.": 'Je n''ai pas encore eu la chance
+    de faire tourner ce code pour l''instant.'
+  "I haven't had any experience with that before.": 'Je n''ai jamais aucune expérience
+    de ce genre avant.'
+  "I haven't touched that code in weeks.": 'Je n''ai touché à ce code depuis des semaines.'
+  "I heard there was a solar flare today.": 'J''ai entendu dire qu''il y avait une
+    éruption solaire aujourd''hui.'
+  "I was just fixing that.": 'Je réparais justement ça.'
+  "I was told to stop working on that when something important came up.": 'On m''a
+    dit d''arrêter de travailler dessus car quelque chose de plus important était
+    arrivé.'
+  "In the interest of efficiency I only check my email for that on a Friday.": 'Par
+    souci d''efficacité je n''ai regardé mes emails à ce sujet que vendredi dernier.'
+  "It can't be broken, it passes all unit tests.": 'Ça ne peut pas être cassé, ça
+    passe tout les tests unitaires.'
+  "It must be a hardware problem.": 'Cela doit être un problème dû au matériel informatique.'
+  "It must be because of a leap year.": 'Cela doit être dû à une année bissextile.'
+  "It probably won't happen again.": 'Cela n''arrivera probablement plus.'
+  "It was working in my head.": 'Cela me trottait justement dans la tête.'
+  "It works for me.": 'Ça marche de mon côté.'
+  "It works, but it's not been tested.": 'Ça marche, mais ça n''a pas été testé.'
+  "It would have taken twice as long to build it properly.": 'Cela aurait pris deux
+    fois plus de temps de le coder proprement.'
+  "It would take too long to rewrite the code from scratch.": 'Cela prendrait trop
+    de temps de réécrire le code depuis le départ.'
+  "It's a browser compatibility issue.": 'C''est une histoire de compatibilité du
+    navigateur.'
+  "It's a character encoding issue.": 'C''est un problème d''encodage de caractères.'
+  "It's a compatibility issue.": 'C''est un problème de compatibilité.'
+  "It's a known bug with the programming language.": 'C''est un bug connu dans ce
+    langage de programmation.'
+  "It's a remote vendor issue.": 'C''est un problème de fournisseur distant.'
+  "It's always been like that.": 'Ça a toujours été comme ça.'
+  "It's an unexpected emergent behaviour of several last minute abstractions.": 'C''est
+    un comportement émergeant non-attendu résultants d''abstractions de dernières
+    minutes.'
+  "It's just some unlucky coincidence.": 'C''est juste une coïncidence malchanceuse.'
+  "It's never done that before.": 'Ça ne faisait jamais ça avant.'
+  "It's never shown unexpected behavior like this before.": 'Cela n''as jamais provoqué
+    de comportement comme celui-là avant.'
+  "It's not a code problem — our users need more training.": 'Ce n''est pas un problème
+    de code — nos utilisateurs ont besoin de plus de formation.'
+  "I'll have to fix that at a later date.": 'Je vais réparer ça à une date ultérieure.'
+  "I'm not familiar with it so I didn't fix it in case I made it worse.": 'Je ne suis
+    pas familier de ça donc je l''ai pas réparé pour éviter d''empirer la situation.'
+  "I'm not getting any error codes.": 'Je n''ai aucun code d''erreur.'
+  "I'm not sure as I've never had a look at how that works before.": 'Je ne suis pas
+    sûr car je n''ai jamais jeté un œil au fonctionnement de ça avant.'
+  "I'm still working on that as we speak.": 'Je travaille toujours dessus à l''heure
+    où nous nous parlons.'
+  "I'm surprised it was working at all.": 'Je suis surpris que cela aie fonctionné
+    un jour.'
+  "I'm surprised it works as well as it does.": 'Je suis surpris que cela marche aussi
+    bien que cela.'
+  "Management insisted we wouldn't need to waste our time writing unit tests.": 'Le
+    management a insisté pour dire que nous n''avions pas besoin d''écrire des tests
+    unitaires pour ça.'
+  "Maybe somebody forgot to pay our hosting company.": 'Peut-être que quelqu''un a
+    oublié de payé l''hébergeur de l''entreprise.'
+  "My time was split in a way that meant I couldn't do either project properly": 'Mon
+    emploi du temps a été divisé d''une manière que je ne pouvais n''y faire ni planifier
+    correctement'
+  "No one told me so I was forced to assume which way to do that.": 'Personne ne m''a
+    dit que j''étais obligé d''assumer la manière de procéder.'
+  "Nobody asked me how long it would actually take.": 'Personne ne m''a dit combien
+    de temps cela ça prendrait.'
+  "Nobody has ever complained about it.": 'Personne ne s''en ai jamais plaint.'
+  "Oh, that was just a temporary fix.": 'Oh, c''était juste un fix temporaire.'
+  "Oh, that was only supposed to be a placeholder.": 'Oh, c''était censé être uniquement
+    une phrase générique.'
+  "Oh, you said you DIDN'T want that to happen?": 'Oh, tu disais que tu ne voulais
+    PAS que ça arrive ?'
+  "Our code quality is no worse than anyone else in the industry.": 'La qualité de
+    notre code n''est pas pire que ce que font tous les autres dans le secteur.'
+  "Our hardware is too slow to cope with demand.": 'Notre hardware est trop lent pour
+    faire face à la demande.'
+  "Our internet connection must not be working.": 'Notre connexion Internet ne doit
+    pas bien fonctionner.'
+  "Our redundant systems must have failed as well.": 'Nos systèmes redondants ont
+    dû également planter.'
+  "Please ignore that, it's for debugging": 'Veuillez ignorer cela, c''est pour le
+    debugging'
+  "Somebody must have changed my code.": 'Quelqu''un a dit changer mon code.'
+  "THIS can't be the source of THAT.": 'CECI ne peut pas être la source de ÇA.'
+  "That behaviour is in the original specification.": 'Ce comportement est dans la
+    spécification originelle.'
+  "That code seemed so simple I didn't think it needed testing.": 'Ce code semblait
+    si simple, je n''ai jugé nécessaire de le tester.'
+  "That error means it was successful.": 'Cette erreur prouve que tout a fonctionné.'
+  "That feature was slated for phase two.": 'Cette fonctionnalité était prévue pour
+    la phase deux.'
+  "That feature would be outside the scope.": 'Cette fonctionnalité va au-delà de
+    nos capacités.'
+  "That important email must have been marked as spam.": 'Ce mail important a sûrement
+    dû être considéré comme un spam.'
+  "That isn't covered by my job description.": 'Ce n''est pas mentionné dans ma fiche
+    de poste.'
+  "That process requires human oversight that nobody was providing.": 'Ce processus
+    requérait une supervision humaine que personne ne fournissait.'
+  "That was literally a one in a million error.": 'C''est littérallement l''erreur
+    qui a une chance sur un million d''arriver.'
+  "That wasn't in the original specification.": 'C''était pas dans la spécification
+    originale.'
+  "That worked perfectly when I developed it.": 'Cela marchait parfaitement quand
+    je l''ai développé.'
+  "That wouldn't be economically feasible.": 'Ce n''est économiquement pas faisable.'
+  "That's already fixed, it just hasn't taken effect yet.": 'Ça a déjà été fixé, mais
+    ça n''as encore pris effet.'
+  "That's interesting, how did you manage to make it do that?": 'C''est intéressant,
+    comment t''as fait pour arriver à ça ?'
+  "That's not a bug it's a configuration issue.": 'Ce n''est pas un bug, c''est un
+    problème de configuration.'
+  "That's the fault of the graphic designer.": 'C''est la faute du designer graphique.'
+  "The accounting department must have cancelled that subscription.": 'Le département
+    comptable a dû annulé cet abonnement.'
+  "The client must have been hacked.": 'Le client a probablement été piraté.'
+  "The client wanted it changed at the last minute.": 'Le client voulait ce changement
+    à la dernière minute.'
+  "The code is compiling.": 'Ce code compile correctement.'
+  "The DNS hasn't propagated yet.": 'Le DNS ne s''est pas encore propagé.'
+  "The download must have been corrupted.": 'Le téléchargement a dû être corrompu.'
+  "The existing design makes it difficult to do the right thing.": 'Le design actuel
+    rend difficile la réalisation de ce qu''il faut.'
+  "The marketing department made us put that there.": 'Le département marketing nous
+    a fait mettre ça ici.'
+  "The person responsible doesn't work here anymore.": 'La personne responsable ne
+    travaille plus ici.'
+  "The problem seems to be with our legacy software.": 'Le problème semble être dû
+    à notre dette technique.'
+  "The program has never collected that information.": 'Le programme n''a jamais collecté
+    cette information.'
+  "The project manager said no one would want that feature": 'Le chef de projet a
+    dit que personne ne voudrait de cette fonctionnalité.'
+  "The project manager told me to do it that way.": 'Le chef de project a dit de le
+    faire comme ça.'
+  "The request must have dropped some packets.": 'La requête a dû perdre quelques
+    paquets en route.'
+  "The specifications were ambiguous.": 'Les spécifications étaient ambigües.'
+  "The third party documentation doesn't exist.": 'La documentation du logiciel tiers
+    n''existe pas.'
+  "The user must not know how to use it.": 'L''utilisateur devrait savoir comment
+    utiliser ça.'
+  "There must be something strange in your data.": 'Il doit y avoir quelque chose
+    de louche dans tes données.'
+  "There was too little data to bother with the extra functionality at the time.": 'Il
+    n''y avait pas assez d''informations pour s''emcombrer de fonctionnalités annexes
+    à l''époque.'
+  "There's currently a problem with our hosting company.": 'Il y a actuellement un
+    problème avec notre hébergeur.'
+  "This code was not supposed to go in to production yet.": 'Ce code n''était pas
+    censé partir en production tout de suite.'
+  "This is a previously known bug you told me not to work on yet.": 'C''est un ancien
+    bug connu sur lequel vous m''avez dit de pas travailler tout de suite.'
+  "We didn't have enough time to peer review the final changes.": 'On n''avait pas
+    le temps de faire une peer review des derniers changements.'
+  "Well done, you found my easter egg!": 'Bravo, vous avez trouvé mon easter egg!'
+  "Well, at least it displays a very pretty error.": 'Bon, au moins ça affiche une
+    jolie erreur.'
+  "Well, at least we know not to try that again.": 'Bon, au moins on sait qu''il faut
+    pas refaire ça.'
+  "What did I tell you about using parts of the system you don't understand?": 'Qu''est-ce
+    que je vous ai dit à propos d''utiliser les parties du système qu''on comprend
+    pas ?'
+  "What did you type in wrong to get it to crash?": 'Qu''est-ce que tu as bien pu
+    écrire pour que ça plante ?'
+  "Where were you when the program blew up?": 'Où étiez-vous quand le programme a
+    planté ?'
+  "Why do you want to do it that way?": 'Pourquoi voulez-vous le faire comme ça ?'
+  "You must have done something wrong.": 'Vous avez dû faire une erreur quelque part.'
+  "You're doing it wrong.": 'Vous vous y prenez mal.'
+  "You must have the wrong version.": 'Vous devez pas être sur la bonne version.'
