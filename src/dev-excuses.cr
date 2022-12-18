@@ -4,8 +4,8 @@ require "yaml"
 module Dev::Excuses
   VERSION = "0.1.0"
   
-  data = File.open("src/data/excuses.yml") do |excuses|
-    YAML.parse(excuses)["data"]
+  data = File.open("src/config/locales/en.yml") do |file|
+    YAML.parse(file)["excuses"]
   end
 
   get "/" do
