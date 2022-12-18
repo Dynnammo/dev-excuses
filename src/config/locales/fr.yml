@@ -7,8 +7,9 @@ excuses:
   "I told you yesterday it would be done by the end of today.": ''
   "I usually get a notification when that happens.": ''
   "Well, that's a first.": ''
-  "Actually, that's a feature.": ''
-  "Did you check for a virus on your system?": ''
+  "Actually, that's a feature.": 'En fait, c''est une fonctionnalité.'
+  "Did you check for a virus on your system?": 'Avez-vous vérifier qu''il n''y avait
+    pas de virus sur votre système ?'
   "Even though it doesn't work, how does it feel?": ''
   "Everything looks fine on my end.": ''
   "How is that possible?": ''
