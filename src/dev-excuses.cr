@@ -5,11 +5,13 @@ module Dev::Excuses
   include Utils
   VERSION = "0.1.0"
 
-  get "/:locale/random" do |env|
+  before_all do |env|
     env.response.content_type = "text/plain;charset=UTF-8"
+  end
+
+  get "/:locale/random" do |env|
     locale = env.params.url["locale"]
-    path = Utils.get_path_from_locale(locale)
-    data = Utils.get_data(path)
+    data = Utils.data! Utils.path(locale)
     key = data.as_h.keys[Random.rand(data.size)]
     
     data[key].to_s
