@@ -16,3 +16,5 @@ test:
 build:
 	docker build . --compress --tag $(TAG)
 
+lint:
+	bin/ameba
