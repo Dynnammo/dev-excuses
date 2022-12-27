@@ -13,7 +13,7 @@ module Dev::Excuses
     locale = env.params.url["locale"]
     data = Utils.data! Utils.path(locale)
     key = data.as_h.keys[Random.rand(data.size)]
-    
+
     data[key].to_s
   end
 end
