@@ -12,5 +12,5 @@ jobs:
         uses: crystal-lang/install-crystal@v1
       - name: Install shards
         run: shards install
-      - name: Run tests
-        run: KEMAL_ENV=test crystal spec
+      - name: Run linting
+        run: bin/ameba
