@@ -10,6 +10,11 @@ dependencies:
   kemal:
     github: kemalcr/kemal
 
+development_dependencies:
+  ameba:
+    github: crystal-ameba/ameba
+    version: ~> 1.3.0
+
 targets:
   dev-excuses:
     main: src/dev-excuses.cr
