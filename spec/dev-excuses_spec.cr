@@ -12,7 +12,7 @@ describe Dev::Excuses do
     it "should return a random excuse" do
       get "/random"
       response.status_code.should eq(200)
-      response.body.not_nil!
+      response.body.should_not eq(nil)
     end
   end
 end
