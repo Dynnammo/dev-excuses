@@ -5,10 +5,15 @@ authors:
   - Dynnammo <contact@dynnammo.com>
 
 dependencies:
-  spec-kemal:
-    github: kemalcr/spec-kemal
   kemal:
     github: kemalcr/kemal
+
+development_dependencies:
+  ameba:
+    github: crystal-ameba/ameba
+    version: ~> 1.3.0
+  spec-kemal:
+    github: kemalcr/spec-kemal
 
 targets:
   dev-excuses:

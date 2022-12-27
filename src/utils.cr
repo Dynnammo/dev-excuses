@@ -6,7 +6,9 @@ module Utils
     "src/config/locales/#{locale}.yml"
   end
 
-    def data!(path)
-      File.open(path) { |file| YAML.parse(file)["excuses"] }
-    end
+  def data!(path)
+    File.open(path) { |file| YAML.parse(file)["excuses"] }
+  rescue exception
+    File.open(path("en")) { |file| YAML.parse(file)["excuses"] }
+  end
 end

@@ -6,16 +6,22 @@ module Dev::Excuses
   VERSION = "0.1.0"
 
   before_all do |env|
-    env.response.content_type = "text/plain;charset=UTF-8"
+    env.response.content_type = "application/json"
   end
 
-  get "/:locale/random" do |env|
-    locale = env.params.url["locale"]
+  get "/" do |env|
+    halt env, status_code: 404, response: "Not implemented"
+  end
+
+  get "/random" do |env|
+    locale = env.params.query["locale"]? || "en"
     data = Utils.data! Utils.path(locale)
     key = data.as_h.keys[Random.rand(data.size)]
-    
-    data[key].to_s
+
+
+    {"data": data[key].to_s}.to_json
   end
+
 end
 
 Kemal.run
