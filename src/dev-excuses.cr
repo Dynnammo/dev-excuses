@@ -16,10 +16,9 @@ module Dev::Excuses
   get "/random" do |env|
     locale = env.params.query["locale"]? || "en"
     data = Utils.data! Utils.path(locale)
-    key = data.as_h.keys[Random.rand(data.size)]
+    key = Random.rand(data.size)
 
-
-    {"data": data[key].to_s}.to_json
+    {"data": data[key]}.to_json
   end
 
 end

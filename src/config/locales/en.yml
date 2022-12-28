@@ -1,127 +1,252 @@
 ---
 excuses:
-  "Actually, that's a feature.": "Actually, that's a feature."
-  "Did you check for a virus on your system?": "Did you check for a virus on your system?"
-  "Even though it doesn't work, how does it feel?": "Even though it doesn't work, how does it feel?"
-  "Everything looks fine on my end.": "Everything looks fine on my end."
-  "How is that possible?": "How is that possible?"
-  "I broke that deliberately to do some testing.": "I broke that deliberately to do some testing."
-  "I can't make that a priority right now.": "I can't make that a priority right now."
-  "I can't test everything.": "I can't test everything."
-  "I couldn't find any examples of how that can be done anywhere online.": "I couldn't find any examples of how that can be done anywhere online."
-  "I couldn't find any library that can even do that." : "I couldn't find any library that can even do that."
-  "I did a quick fix last time but it broke when we rebooted." : "I did a quick fix last time but it broke when we rebooted."
-  "I didn't anticipate that I would make any errors.": "I didn't anticipate that I would make any errors."
-  "I didn't create that part of the program.": "I didn't create that part of the program."
-  "I didn't receive a ticket for it.": "I didn't receive a ticket for it."
-  "I forgot to commit the code that fixes that.": "I forgot to commit the code that fixes that."
-  "I have never seen that before in my life.": "I have never seen that before in my life."
-  "I have too many other high priority things to do right now.": "I have too many other high priority things to do right now."
-  "I haven't been able to reproduce that.": "I haven't been able to reproduce that."
-  "I haven't had a chance to run that code yet.": "I haven't had a chance to run that code yet."
-  "I haven't had any experience with that before.": "I haven't had any experience with that before."
-  "I haven't touched that code in weeks.": "I haven't touched that code in weeks."
-  "I heard there was a solar flare today.": "I heard there was a solar flare today."
-  "I must have been stress-testing our production server.": "I must have been stress-testing our production server."
-  "I must not have understood what you were asking for.": "I must not have understood what you were asking for."
-  "I thought I finished that.": "I thought I finished that."
-  "I thought he knew the context of what I was talking about.": "I thought he knew the context of what I was talking about."
-  "I thought you signed off on that.": "I thought you signed off on that."
-  "I told you yesterday it would be done by the end of today.": "I told you yesterday it would be done by the end of today."
-  "I usually get a notification when that happens.": "I usually get a notification when that happens."
-  "I was just fixing that.": "I was just fixing that."
-  "I was told to stop working on that when something important came up.": "I was told to stop working on that when something important came up."
-  "In the interest of efficiency I only check my email for that on a Friday.": "In the interest of efficiency I only check my email for that on a Friday."
-  "It can't be broken, it passes all unit tests.": "It can't be broken, it passes all unit tests."
-  "It must be a hardware problem.": "It must be a hardware problem."
-  "It must be because of a leap year.": "It must be because of a leap year."
-  "It probably won't happen again.": "It probably won't happen again."
-  "It was working in my head.": "It was working in my head."
-  "It works for me.": "It works for me."
-  "It works, but it's not been tested.": "It works, but it's not been tested."
-  "It would have taken twice as long to build it properly.": "It would have taken twice as long to build it properly."
-  "It would take too long to rewrite the code from scratch.": "It would take too long to rewrite the code from scratch."
-  "It's a browser compatibility issue.": "It's a browser compatibility issue."
-  "It's a character encoding issue.": "It's a character encoding issue."
-  "It's a compatibility issue.": "It's a compatibility issue."
-  "It's a known bug with the programming language.": "It's a known bug with the programming language."
-  "It's a remote vendor issue.": "It's a remote vendor issue."
-  "It's always been like that.": "It's always been like that."
-  "It's an unexpected emergent behaviour of several last minute abstractions.": "It's an unexpected emergent behaviour of several last minute abstractions."
-  "It's just some unlucky coincidence.": "It's just some unlucky coincidence."
-  "It's never done that before.": "It's never done that before."
-  "It's never shown unexpected behavior like this before.": "It's never shown unexpected behavior like this before."
-  "It's not a code problem — our users need more training.": "It's not a code problem — our users need more training."
-  "I'll have to fix that at a later date.": "I'll have to fix that at a later date."
-  "I'm not familiar with it so I didn't fix it in case I made it worse.": "I'm not familiar with it so I didn't fix it in case I made it worse."
-  "I'm not getting any error codes.": "I'm not getting any error codes."
-  "I'm not sure as I've never had a look at how that works before.": "I'm not sure as I've never had a look at how that works before."
-  "I'm still working on that as we speak.": "I'm still working on that as we speak."
-  "I'm surprised it was working at all.": "I'm surprised it was working at all."
-  "I'm surprised it works as well as it does.": "I'm surprised it works as well as it does."
-  "Management insisted we wouldn't need to waste our time writing unit tests.": "Management insisted we wouldn't need to waste our time writing unit tests."
-  "Maybe somebody forgot to pay our hosting company.": "Maybe somebody forgot to pay our hosting company."
-  "My time was split in a way that meant I couldn't do either project properly": "My time was split in a way that meant I couldn't do either project properly"
-  "No one told me so I was forced to assume which way to do that.": "No one told me so I was forced to assume which way to do that."
-  "Nobody asked me how long it would actually take.": "Nobody asked me how long it would actually take."
-  "Nobody has ever complained about it.": "Nobody has ever complained about it."
-  "Oh, that was just a temporary fix.": "Oh, that was just a temporary fix."
-  "Oh, that was only supposed to be a placeholder.": "Oh, that was only supposed to be a placeholder."
-  "Oh, you said you DIDN'T want that to happen?": "Oh, you said you DIDN'T want that to happen?"
-  "Our code quality is no worse than anyone else in the industry.": "Our code quality is no worse than anyone else in the industry."
-  "Our hardware is too slow to cope with demand.": "Our hardware is too slow to cope with demand."
-  "Our internet connection must not be working.": "Our internet connection must not be working."
-  "Our redundant systems must have failed as well.": "Our redundant systems must have failed as well."
-  "Please ignore that, it's for debugging": "Please ignore that, it's for debugging"
-  "Somebody must have changed my code.": "Somebody must have changed my code."
-  "THIS can't be the source of THAT.": "THIS can't be the source of THAT."
-  "That behaviour is in the original specification.": "That behaviour is in the original specification."
-  "That code seemed so simple I didn't think it needed testing.": "That code seemed so simple I didn't think it needed testing."
-  "That error means it was successful.": "That error means it was successful."
-  "That feature was slated for phase two.": "That feature was slated for phase two."
-  "That feature would be outside the scope.": "That feature would be outside the scope."
-  "That important email must have been marked as spam.": "That important email must have been marked as spam."
-  "That isn't covered by my job description.": "That isn't covered by my job description."
-  "That process requires human oversight that nobody was providing.": "That process requires human oversight that nobody was providing."
-  "That was literally a one in a million error.": "That was literally a one in a million error."
-  "That wasn't in the original specification.": "That wasn't in the original specification."
-  "That worked perfectly when I developed it.": "That worked perfectly when I developed it."
-  "That wouldn't be economically feasible.": "That wouldn't be economically feasible."
-  "That's already fixed, it just hasn't taken effect yet.": "That's already fixed, it just hasn't taken effect yet."
-  "That's interesting, how did you manage to make it do that?": "That's interesting, how did you manage to make it do that?"
-  "That's not a bug it's a configuration issue.": "That's not a bug it's a configuration issue."
-  "That's the fault of the graphic designer.": "That's the fault of the graphic designer."
-  "The accounting department must have cancelled that subscription.": "The accounting department must have cancelled that subscription."
-  "The client must have been hacked.": "The client must have been hacked."
-  "The client wanted it changed at the last minute.": "The client wanted it changed at the last minute."
-  "The code is compiling.": "The code is compiling."
-  "The DNS hasn't propagated yet.": "The DNS hasn't propagated yet."
-  "The download must have been corrupted.": "The download must have been corrupted."
-  "The existing design makes it difficult to do the right thing.": "The existing design makes it difficult to do the right thing."
-  "The marketing department made us put that there.": "The marketing department made us put that there."
-  "The person responsible doesn't work here anymore.": "The person responsible doesn't work here anymore."
-  "The problem seems to be with our legacy software.": "The problem seems to be with our legacy software."
-  "The program has never collected that information.": "The program has never collected that information."
-  "The project manager said no one would want that feature": "The project manager said no one would want that feature"
-  "The project manager told me to do it that way.": "The project manager told me to do it that way."
-  "The request must have dropped some packets.": "The request must have dropped some packets."
-  "The specifications were ambiguous.": "The specifications were ambiguous."
-  "The third party documentation doesn't exist.": "The third party documentation doesn't exist."
-  "The user must not know how to use it.": "The user must not know how to use it."
-  "There must be something strange in your data.": "There must be something strange in your data."
-  "There was too little data to bother with the extra functionality at the time.": "There was too little data to bother with the extra functionality at the time."
-  "There's currently a problem with our hosting company.": "There's currently a problem with our hosting company."
-  "This code was not supposed to go in to production yet.": "This code was not supposed to go in to production yet."
-  "This is a previously known bug you told me not to work on yet.": "This is a previously known bug you told me not to work on yet."
-  "We didn't have enough time to peer review the final changes.": "We didn't have enough time to peer review the final changes."
-  "Well done, you found my easter egg!": "Well done, you found my easter egg!"
-  "Well, at least it displays a very pretty error.": "Well, at least it displays a very pretty error."
-  "Well, at least we know not to try that again.": "Well, at least we know not to try that again."
-  "Well, that's a first.": "Well, that's a first."
-  "What did I tell you about using parts of the system you don't understand?": "What did I tell you about using parts of the system you don't understand?"
-  "What did you type in wrong to get it to crash?": "What did you type in wrong to get it to crash?"
-  "Where were you when the program blew up?": "Where were you when the program blew up?"
-  "Why do you want to do it that way?": "Why do you want to do it that way?"
-  "You must have done something wrong.": "You must have done something wrong."
-  "You're doing it wrong.": "You're doing it wrong."
-  "You must have the wrong version.": "You must have the wrong version."
+- index: 0
+  body: Actually, that's a feature.
+- index: 1
+  body: Did you check for a virus on your system?
+- index: 2
+  body: Even though it doesn't work, how does it feel?
+- index: 3
+  body: Everything looks fine on my end.
+- index: 4
+  body: How is that possible?
+- index: 5
+  body: I broke that deliberately to do some testing.
+- index: 6
+  body: I can't make that a priority right now.
+- index: 7
+  body: I can't test everything.
+- index: 8
+  body: I couldn't find any examples of how that can be done anywhere online.
+- index: 9
+  body: I couldn't find any library that can even do that.
+- index: 10
+  body: I did a quick fix last time but it broke when we rebooted.
+- index: 11
+  body: I didn't anticipate that I would make any errors.
+- index: 12
+  body: I didn't create that part of the program.
+- index: 13
+  body: I didn't receive a ticket for it.
+- index: 14
+  body: I forgot to commit the code that fixes that.
+- index: 15
+  body: I have never seen that before in my life.
+- index: 16
+  body: I have too many other high priority things to do right now.
+- index: 17
+  body: I haven't been able to reproduce that.
+- index: 18
+  body: I haven't had a chance to run that code yet.
+- index: 19
+  body: I haven't had any experience with that before.
+- index: 20
+  body: I haven't touched that code in weeks.
+- index: 21
+  body: I heard there was a solar flare today.
+- index: 22
+  body: I must have been stress-testing our production server.
+- index: 23
+  body: I must not have understood what you were asking for.
+- index: 24
+  body: I thought I finished that.
+- index: 25
+  body: I thought he knew the context of what I was talking about.
+- index: 26
+  body: I thought you signed off on that.
+- index: 27
+  body: I told you yesterday it would be done by the end of today.
+- index: 28
+  body: I usually get a notification when that happens.
+- index: 29
+  body: I was just fixing that.
+- index: 30
+  body: I was told to stop working on that when something important came up.
+- index: 31
+  body: I'll have to fix that at a later date.
+- index: 32
+  body: I'm not familiar with it so I didn't fix it in case I made it worse.
+- index: 33
+  body: I'm not getting any error codes.
+- index: 34
+  body: I'm not sure as I've never had a look at how that works before.
+- index: 35
+  body: I'm still working on that as we speak.
+- index: 36
+  body: I'm surprised it was working at all.
+- index: 37
+  body: I'm surprised it works as well as it does.
+- index: 38
+  body: In the interest of efficiency I only check my email for that on a Friday.
+- index: 39
+  body: It can't be broken, it passes all unit tests.
+- index: 40
+  body: It must be a hardware problem.
+- index: 41
+  body: It must be because of a leap year.
+- index: 42
+  body: It probably won't happen again.
+- index: 43
+  body: It was working in my head.
+- index: 44
+  body: It works for me.
+- index: 45
+  body: It works, but it's not been tested.
+- index: 46
+  body: It would have taken twice as long to build it properly.
+- index: 47
+  body: It would take too long to rewrite the code from scratch.
+- index: 48
+  body: It's a browser compatibility issue.
+- index: 49
+  body: It's a character encoding issue.
+- index: 50
+  body: It's a compatibility issue.
+- index: 51
+  body: It's a known bug with the programming language.
+- index: 52
+  body: It's a remote vendor issue.
+- index: 53
+  body: It's always been like that.
+- index: 54
+  body: It's an unexpected emergent behaviour of several last minute abstractions.
+- index: 55
+  body: It's just some unlucky coincidence.
+- index: 56
+  body: It's never done that before.
+- index: 57
+  body: It's never shown unexpected behavior like this before.
+- index: 58
+  body: It's not a code problem — our users need more training.
+- index: 59
+  body: Management insisted we wouldn't need to waste our time writing unit tests.
+- index: 60
+  body: Maybe somebody forgot to pay our hosting company.
+- index: 61
+  body: My time was split in a way that meant I couldn't do either project properly
+- index: 62
+  body: No one told me so I was forced to assume which way to do that.
+- index: 63
+  body: Nobody asked me how long it would actually take.
+- index: 64
+  body: Nobody has ever complained about it.
+- index: 65
+  body: Oh, that was just a temporary fix.
+- index: 66
+  body: Oh, that was only supposed to be a placeholder.
+- index: 67
+  body: Oh, you said you DIDN'T want that to happen?
+- index: 68
+  body: Our code quality is no worse than anyone else in the industry.
+- index: 69
+  body: Our hardware is too slow to cope with demand.
+- index: 70
+  body: Our internet connection must not be working.
+- index: 71
+  body: Our redundant systems must have failed as well.
+- index: 72
+  body: Please ignore that, it's for debugging
+- index: 73
+  body: Somebody must have changed my code.
+- index: 74
+  body: THIS can't be the source of THAT.
+- index: 75
+  body: That behaviour is in the original specification.
+- index: 76
+  body: That code seemed so simple I didn't think it needed testing.
+- index: 77
+  body: That error means it was successful.
+- index: 78
+  body: That feature was slated for phase two.
+- index: 79
+  body: That feature would be outside the scope.
+- index: 80
+  body: That important email must have been marked as spam.
+- index: 81
+  body: That isn't covered by my job description.
+- index: 82
+  body: That process requires human oversight that nobody was providing.
+- index: 83
+  body: That was literally a one in a million error.
+- index: 84
+  body: That wasn't in the original specification.
+- index: 85
+  body: That worked perfectly when I developed it.
+- index: 86
+  body: That wouldn't be economically feasible.
+- index: 87
+  body: That's already fixed, it just hasn't taken effect yet.
+- index: 88
+  body: That's interesting, how did you manage to make it do that?
+- index: 89
+  body: That's not a bug it's a configuration issue.
+- index: 90
+  body: That's the fault of the graphic designer.
+- index: 91
+  body: The DNS hasn't propagated yet.
+- index: 92
+  body: The accounting department must have cancelled that subscription.
+- index: 93
+  body: The client must have been hacked.
+- index: 94
+  body: The client wanted it changed at the last minute.
+- index: 95
+  body: The code is compiling.
+- index: 96
+  body: The download must have been corrupted.
+- index: 97
+  body: The existing design makes it difficult to do the right thing.
+- index: 98
+  body: The marketing department made us put that there.
+- index: 99
+  body: The person responsible doesn't work here anymore.
+- index: 100
+  body: The problem seems to be with our legacy software.
+- index: 101
+  body: The program has never collected that information.
+- index: 102
+  body: The project manager said no one would want that feature
+- index: 103
+  body: The project manager told me to do it that way.
+- index: 104
+  body: The request must have dropped some packets.
+- index: 105
+  body: The specifications were ambiguous.
+- index: 106
+  body: The third party documentation doesn't exist.
+- index: 107
+  body: The user must not know how to use it.
+- index: 108
+  body: There must be something strange in your data.
+- index: 109
+  body: There was too little data to bother with the extra functionality at the time.
+- index: 110
+  body: There's currently a problem with our hosting company.
+- index: 111
+  body: This code was not supposed to go in to production yet.
+- index: 112
+  body: This is a previously known bug you told me not to work on yet.
+- index: 113
+  body: We didn't have enough time to peer review the final changes.
+- index: 114
+  body: Well done, you found my easter egg!
+- index: 115
+  body: Well, at least it displays a very pretty error.
+- index: 116
+  body: Well, at least we know not to try that again.
+- index: 117
+  body: Well, that's a first.
+- index: 118
+  body: What did I tell you about using parts of the system you don't understand?
+- index: 119
+  body: What did you type in wrong to get it to crash?
+- index: 120
+  body: Where were you when the program blew up?
+- index: 121
+  body: Why do you want to do it that way?
+- index: 122
+  body: You must have done something wrong.
+- index: 123
+  body: You must have the wrong version.
+- index: 124
+  body: You're doing it wrong.
