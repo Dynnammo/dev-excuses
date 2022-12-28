@@ -21,6 +21,27 @@ module Dev::Excuses
     {"data": data[key]}.to_json
   end
 
+  get "/:id" do |env|
+    begin
+      id = env.params.url["id"].to_i
+      locale = env.params.query["locale"]? || "en"
+      data = Utils.data! Utils.path(locale)
+
+      wanted_excuse = data.as_a.select { |excuse| excuse["index"] == id }
+
+      if wanted_excuse.empty?
+        env.response.status_code = 404
+        {"data": "Excuse with ID provided does not exist"}.to_json
+      else
+        {"data": wanted_excuse.first}.to_json
+      end
+    rescue exception
+
+      env.response.status_code = 404
+      {"data": "You should provide a valid ID"}.to_json
+    end
+  end
+
 end
 
 Kemal.run
