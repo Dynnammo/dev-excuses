@@ -25,12 +25,18 @@ make run
 ### Run tests
 `make test`
 ## Contributing
+### Code
 1. Fork it (<https://github.com/your-github-user/dev-excuses/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
 
+### Translation
+Go to https://nuage.dynnammo.com/weblate/projects/dev-excuses/ and check existing languages for translation.
+
+If your language isn't available, please [create an issue](https://github.com/Dynnammo/dev-excuses/issues/new/choose)
+
 ## Contributors
 
-- [Dynnammo](https://github.com/your-github-user) - creator and maintainer
+- [Dynnammo](https://github.com/Dynnammo) - creator and maintainer
